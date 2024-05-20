@@ -1,0 +1,28 @@
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\RecommendIt.Common.dll.config
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\RecommendIt.Common.dll
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\RecommendIt.Common.pdb
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\obj\Debug\RecommendIt.Common.csproj.AssemblyReference.cache
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\obj\Debug\RecommendIt.Common.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\obj\Debug\RecommendIt.Common.csproj.CopyComplete
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\obj\Debug\RecommendIt.Common.dll
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\obj\Debug\RecommendIt.Common.pdb
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\RecommendIt.Models.Common.dll
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\RecommendIt.Models.Common.pdb
+C:\Users\ivana\Desktop\RecommendIT\RecommendIt\RecommendIt.Common\bin\Debug\RecommendIt.Models.Common.dll.config
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\RecommendIt.Common.dll.config
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\RecommendIt.Common.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\RecommendIt.Common.pdb
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\RecommendIt.Models.Common.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\RecommendIt.Models.Common.pdb
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\RecommendIt.Models.Common.dll.config
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\RecommendIt.Common.csproj.AssemblyReference.cache
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\RecommendIt.Common.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\RecommendIt.Common.csproj.CopyComplete
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\RecommendIt.Common.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\RecommendIt.Common.pdb

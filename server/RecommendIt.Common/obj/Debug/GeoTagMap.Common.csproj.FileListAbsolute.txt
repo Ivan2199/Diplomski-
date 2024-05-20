@@ -1,0 +1,14 @@
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\GeoTagMap.Common.dll.config
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\GeoTagMap.Common.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\GeoTagMap.Common.pdb
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\GeoTagMap.Models.Common.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\GeoTagMap.Models.Common.pdb
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\GeoTagMap.Models.Common.dll.config
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\GeoTagMap.Common.csproj.AssemblyReference.cache
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\GeoTagMap.Common.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\GeoTagMap.Common.csproj.CopyComplete
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\GeoTagMap.Common.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.Common\obj\Debug\GeoTagMap.Common.pdb

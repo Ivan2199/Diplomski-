@@ -1,0 +1,8 @@
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\bin\Debug\GeoTagMap.DAL.dll.config
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\bin\Debug\GeoTagMap.DAL.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\bin\Debug\GeoTagMap.DAL.pdb
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\obj\Debug\GeoTagMap.DAL.csproj.AssemblyReference.cache
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\obj\Debug\GeoTagMap.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\obj\Debug\GeoTagMap.DAL.csproj.CopyComplete
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\obj\Debug\GeoTagMap.DAL.dll
+C:\Users\ivana\Desktop\Geo Označna Karta\server\RecommendIt.DAL\obj\Debug\GeoTagMap.DAL.pdb
